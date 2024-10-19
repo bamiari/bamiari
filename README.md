@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Ayo! <br/>Cybersecurity & Project Management Professional </a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2>Certifications:</h2>
+
+- <b>Google Cybersecurity Certificate</b>
+  
+- <b>Certified Associate in Project Management</b>
+
 
 <!--
 **bamiari/bamiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
